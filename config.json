@@ -74,11 +74,11 @@
 
     "payments": {
         "enabled": true,
-        "interval": 600,
+        "interval": 1800,
         "maxAddresses": 50,
         "mixin": 4,
         "transferFee": 20000000,
-        "minPayment": 2000000000,
+        "minPayment": 100000000000,
         "maxTransactionAmount": 0,
         "denomination": 10000000,
         "useDynamicTransferFee": true,
